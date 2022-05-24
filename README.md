@@ -39,7 +39,7 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
 </ul>
 
 <p align="center">
-  <a><img width="250px" src="./img/powerGym/ABOUT.png" /></a>
+  <a><img width="250px" src="./img/powerGym/about.png" /></a>
   <a><img width="250px" src="./img/powerGym/about2.png" /></a>
 </p>
 
@@ -54,7 +54,7 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
 </p>
 
 <p align="center">
-  <a><img width="250px" src="./img/powerGym/googleMaps.png" /></a>
+  <a><img width="250px" src="./img/powerGym/googlemaps.png" /></a>
   <a><img width="250px" src="./img/powerGym/MercadoPago2.png" /> </a>
 </p>
 
