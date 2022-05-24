@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hola 👋, soy Matias Gonzalez</h1>
 <h3 align="center">Full stack web Developer.</h3>
