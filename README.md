@@ -2,7 +2,6 @@
 <h1 align="center">Hola 👋, soy Matias Gonzalez</h1>
 <h3 align="center">Full stack web Developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
