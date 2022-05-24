@@ -16,6 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasgonz1653&show_icons=true&locale=en" alt="matiasgonz1653" /></p>
 &nbsp;
 <h1>📌 Proyectos en los que he trabajado</h1>
+<h2 align="center">Power Gym App</h2>
+
 <h4> En este proyecto el objetivo es darle una solución a un gimnasio, la cual le permita gestionar las distintas actividades brindadas por el mismo, generar alta de usuarios y asociarse a las clases disponibles, cobro de cuotas y membresías, sumado a esto brindar además un servicio extra donde se le brinde información al usuario sobre dietas alimenticias específicas para cada caso, algunas funcionalidades son: </h4>
 
 <ul>
@@ -36,36 +38,62 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
 </ul>
 
 <p align="center">
-  <a><img width="250px" src="./images/ABOUT.png" /></a>
-  <a><img width="250px" src="./images/about2.png" /></a>
+  <a><img width="250px" src="./img/powerGym/ABOUT.png" /></a>
+  <a><img width="250px" src="./img/powerGym/about2.png" /></a>
 </p>
 
 <p align="center">
-  <a><img width="250px" src="./images/cart2.png" /></a>
-  <a><img width="250px" src="./images/activities.png" /></a>
+  <a><img width="250px" src="./img/powerGym/cart2.png" /></a>
+  <a><img width="250px" src="./img/powerGym/activities.png" /></a>
 </p>
 
 <p align="center">
-  <a><img width="250px" src="./images/checkout.png" /></a>
-  <a><img width="250px" src="./images/footer.png" /></a>
+  <a><img width="250px" src="./img/powerGym/checkout.png" /></a>
+  <a><img width="250px" src="./img/powerGym/footer.png" /></a>
 </p>
 
 <p align="center">
-  <a><img width="250px" src="./images/googleMaps.png" /></a>
-  <a><img width="250px" src="./images/MercadoPago2.png" /> </a>
+  <a><img width="250px" src="./img/powerGym/googleMaps.png" /></a>
+  <a><img width="250px" src="./img/powerGym/MercadoPago2.png" /> </a>
 </p>
 
 <p align="center">
-  <a><img width="250px" src="./images/perfil2.png" /></a>
-  <a><img width="250px" src="./images/recipes.png" /></a>
+  <a><img width="250px" src="./img/powerGym/perfil2.png" /></a>
+  <a><img width="250px" src="./img/powerGym/recipes.png" /></a>
 </p>
 &nbsp;
+<p align="center" width="400">
+    <a href="https://github.com/agskbr/PF-Gym-Control-App">Ver Repositorio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://pgym-henry-final.vercel.app">Ver Deploy Web</a>
+</p>
 
 ## Contributors
 
 <a href="https://github.com/agskbr/PF-Gym-Control-App/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agskbr/PF-Gym-Control-App" />
 </a>
+
+&nbsp;
+
+<h2 align="center">Dogs App</h2>
+<h4>Esta app te permite ordenar y filtrar los datos traídos de una API ("thedogapi"). también permite crear y guardar tu información creada guardándola en una base de datos para luego poder acudir a esa información y mostrarla con los detalles de la mismas. Realizada con javaScript, nodeJs, react, redux, Sql entre otras mas herramientas
+</h4>
+&nbsp;
+<p align="center">
+    <a><img width="250px" src="./img/dog/landingPage.png"></a>
+    <a><img width="250px" src="./img/dog/home.png"></a>
+    <a><img width="250px" src="./img/dog/filter.png"></a>
+    <a><img width="250px" src="./img/dog/detail.png"></a>
+    <a><img width="250px" src="./img/dog/create.png"></a>
+</p>
+
+<p align="center" width="400">
+    <a href="https://github.com/matiasgonz1653/Dogs">Ver Repositorio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://dog-nu.vercel.app">Ver Deploy</a>
+</p>
+
 &nbsp;
 
 <!--
