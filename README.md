@@ -69,7 +69,7 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
     <a href="https://pgym-henry-final.vercel.app">Ver Deploy Web</a>
 </p>
 
-## Contributors
+Contributors
 
 <a href="https://github.com/agskbr/PF-Gym-Control-App/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agskbr/PF-Gym-Control-App" />
