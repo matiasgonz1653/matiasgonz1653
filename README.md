@@ -1,12 +1,12 @@
 
 <img align="right" src="./img/portada.png" width="100%"/>
 <h1 align="center">Hola 👋, soy Matias Gonzalez</h1>
-<h3 align="center">Full stack web Developer.</h3>
+<h3 align="center">Estudiante avanzado de Ingenieria en sistemas y Full stack web Developer.</h3>
 
 <p align="left">
 </p>
 <h3 align="left">Un poco sobre mi:</h3>
-<p> Me considero alguien muy tranquilo, estudie musica en mis tiempos libres, tocaba el clarinete y toque en una orquesta tocando conciertos como parte del elenco y como solista, en la actualidad en mis tiempos libres realizo dibujos digitales y videojuegos <p/>
+<p> Me considero alguien muy tranquilo, estudie musica en mis tiempos libres, tocaba el clarinete y toque en una orquesta tocando conciertos como parte del elenco y como solista, en la actualidad estoy dedicado al desarrollo de software y todo lo relacionado con la siencia de la tecnologia <p/>
 <img align="right" src="./img/cat-space.gif" width="40%"/>
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
